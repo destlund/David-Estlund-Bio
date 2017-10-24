@@ -1,8 +1,12 @@
 body {
-	background-image: url(assets/images/intersection.png);
-	background-repeat: repeat;
+	background: url(/assets/images/intersection.png);
+	/*background-repeat: repeat;*/
 }
 #column {
 	width: 960px;
 	margin: 0 auto;
+}
+p {
+	background: url(/assets/images/intersection.png);
+	/*background-repeat: repeat;*/
 }
